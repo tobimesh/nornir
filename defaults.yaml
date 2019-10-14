@@ -1,0 +1,6 @@
+---
+username: ansible
+password: cisco123
+data:
+  key3: value3
+
